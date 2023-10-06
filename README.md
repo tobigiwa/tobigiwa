@@ -63,7 +63,7 @@ I'm a backend engineer with a passion for building and automating software solut
 
 </br>
 
-<h3 align="left">
+<h3>
     <b>Tech stacks:</b>
 </h3>
 
