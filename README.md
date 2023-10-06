@@ -61,13 +61,13 @@ I'm a backend engineer with a passion for building and automating software solut
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobigiwa&layout=compact">
 </div>
 
-
-
-<br>
+</br>
 
 <h3 align="left">
     <b>Tech stacks:</b>
 <h/3>
+
+</br>
 
 <div align="center">
     <p align="center">
