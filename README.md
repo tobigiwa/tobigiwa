@@ -54,21 +54,24 @@ I'm a backend engineer with a passion for building and automating software solut
 </div>
 </div>
 
-<br>
+<br >
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=tobigiwa&show_icons=true&theme=tokyonight&hide_border=true">
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobigiwa&layout=compact">
 
-<div></div>
+<div>
+    <br >
+</div>
 
 </div>
 
-</br>
+<br >
 
 <!-- <h3>
     <b>Tech stacks:</b>
 </h3> -->
+
  ### **TECH STACK**
 </br>
 
