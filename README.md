@@ -1,14 +1,13 @@
-
 <h1 align="center">
     Hi 👋, I'm Tobi, your everly friendly programmer 👨🏼‍💻
 </h1>
 
 <h2 align="center">
-    and I am Backend Engineer.
+    and I am software Developer.
 </h2>
 
 <h3>About me:</h3>
-I'm a backend engineer with a passion for building and automating software solutions in Go, driven by the pursuit of excellence in the world of technology.
+Hey there! I’m a Backend Engineer who loves to tinker with Blockchain technology, especially Solana and Hyperledger Fabric. I’m all about building and automating cool stuff in Rust, Go and Python. Pursuing software excellence is what keeps my gears grinding!.
 
 <h5 align="center">
 <blackquote>
@@ -19,19 +18,19 @@ I'm a backend engineer with a passion for building and automating software solut
 
 <h3>My Hobbies:</h3>
 
-+ **Relationships 💗:** Fostering meaningful connections with people is a core part of my life.
-+ **Space Science and Engineering 📡 🚀:** I have a deep fascination with all things related to space, from the wonders of the cosmos to the technology that allows us to explore it. 
-+ **Blockchain Enthusiast 🧱⛓️:** I'm particularly passionate about blockchain technology, especially permissioned blockchains like [Hyperledger Fabric](https://www.hyperledger.org/projects/fabric) and its [related projects](https://www.hyperledger.org/projects). Exploring the world of decentralized ledgers and distributed trust excites me.
-+ **Open Source Contribution 🌐 :** I actively contribute to open-source projects, with a special focus on Go. Being part of the global community that collaboratively builds and improves software is both fulfilling and rewarding.
-+ **Reading 📚:** I'm an avid reader and believe that books can take you on incredible journeys and expand your horizons.
+- **Relationships 💗:** Fostering meaningful connections with people is a core part of my life.
+- **Space Science and Engineering 📡 🚀:** I have a deep fascination with all things related to space, from the wonders of the cosmos to the technology that allows us to explore it.
+- **Blockchain Buff 🧱⛓️:** I'm super into blockchain tech, with a special fondness for permissioned blockchains like [Hyperledger Fabric](https://www.hyperledger.org/projects/fabric) and its [related projects](https://www.hyperledger.org/projects). I'm also a big fan of [Solana](https://solana.com/), [Central Bank Digital Currencies (CBDCs)](https://www.atlanticcouncil.org/cbdctracker/), and [stablecoins](https://www.circle.com/en/usdc-multichain/solana). The thrill of exploring decentralized ledgers and the world of distributed trust keeps me hooked!
+- **Open Source Contribution 🌐 :** I actively contribute to open-source projects, with a special focus on Go. Being part of the global community that collaboratively builds and improves software is both fulfilling and rewarding.
+- **Reading 📚:** I'm an avid reader and believe that books can take you on incredible journeys and expand your horizons.
 
 <br>
 
 <h3>My Aspiration:</h3>
 
-+ **Advocacy for Health and Longevity 🍏🩺 :** Alongside my interest in anti-aging science, I aspire to advocate for healthier lifestyles, preventive healthcare, and longevity to enhance the quality of life for people everywhere.
-+ **Promote Financial Inclusion 💰:** In line with the Pan African banking vision, I aspire to promote financial inclusion and economic empowerment for underserved communities across Africa and beyond.
-+ **Entrepreneurship 💼:** I have an entrepreneurial spirit and aspire to create innovative solutions that address real-world challenges, potentially launching startups or ventures.
+- **Advocacy for Health and Longevity 🍏🩺 :** Alongside my interest in anti-aging science, I aspire to advocate for healthier lifestyles, preventive healthcare, and longevity to enhance the quality of life for people everywhere.
+- **Promote Financial Inclusion 💰:** In line with the Pan African banking vision, I aspire to promote financial inclusion and economic empowerment for underserved communities across Africa and beyond.
+- **Entrepreneurship 💼:** I have an entrepreneurial spirit and aspire to create innovative solutions that address real-world challenges, potentially launching startups or ventures.
 
 <br>
 
@@ -72,16 +71,17 @@ I'm a backend engineer with a passion for building and automating software solut
     <b>Tech stacks:</b>
 </h3> -->
 
- ### **TECH STACK**
+### **TECH STACK**
+
 </br>
 
 <div align="center">
     <p align="center">
         <a href="#"><img src="https://img.shields.io/badge/-Backend-3C873A?style=for-the-badge&labelColor=black&logo=serverless&logoColor=3C873A"></a>
         <a href="#"><img src="https://img.shields.io/badge/-Web3-7931E6?style=for-the-badge&labelColor=black&logo=ethereum&logoColor=7931E6"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-Rust-007acc?style=for-the-badge&labelColor=black&logo=rust&logoColor=007acc"></a>
         <a href="#"><img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&labelColor=black&logo=go&logoColor=00ADD8"></a>
         <a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB"></a>
-        <a href="#"><img src="https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc"></a>
         <a href="#"><img src="https://img.shields.io/badge/-Microservices-FFD700?style=for-the-badge&labelColor=black&logo=micropython&logoColor=FFD700"></a>
     </p>
     <p align="center">
@@ -97,28 +97,13 @@ I'm a backend engineer with a passion for building and automating software solut
     </p>
 </div>
 
+<div align="center">
+    <a href="https://emoji.gg/emoji/7187-solana"><img src="https://cdn3.emoji.gg/emojis/7187-solana.png" width="64px" height="64px" alt="Solana"></a>
+</div>
 
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-<!-- 
+<!--
 <img align="left" width="47%" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"><br/><br/><br/><br/>
 
 <img align="left" width="47%" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><br/><br/><br /><br />
 
 <img align="left" width="47%" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">     -->
-
-
