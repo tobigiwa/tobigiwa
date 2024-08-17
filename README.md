@@ -7,7 +7,7 @@
 </h2>
 
 <h3>About me:</h3>
-Hey there! I’m a someone who likes to hack & tinker with software.
+Likes to hack & tinker with software.
 
 <h5 align="center">
 <blackquote>
@@ -19,12 +19,11 @@ Hey there! I’m a someone who likes to hack & tinker with software.
 <h3>My Hobbies:</h3>
 
 - **Space Science and Engineering 📡 🚀:** I have a deep fascination with all things related to space, from the wonders of the cosmos to the technology that allows us to explore it.
-- **Blockchain Buff 🧱⛓️:** I'm super hyped about blockchain tech, with a special fondness for permissioned blockchains like [Hyperledger Fabric](https://www.hyperledger.org/projects/fabric) and its [related projects](https://www.hyperledger.org/projects). I'm also a big fan of [Solana](https://solana.com/), [Central Bank Digital Currencies (CBDCs)](https://www.atlanticcouncil.org/cbdctracker/), and [stablecoins](https://www.circle.com/en/usdc-multichain/solana). The thrill of exploring decentralized ledgers and the world of distributed trust keeps me hooked!
+- **Blockchain Buff 🧱⛓️:** I'm super hyped about blockchain tech, with a special fondness for [Solana](https://solana.com/), proudly [Superteam](https://superteam.fun/) . I'm also a big fan of  permissioned blockchains like [Hyperledger Fabric](https://www.hyperledger.org/projects/fabric) (solely because it is written in Go) and the [cosmos blockchain](https://cosmos.network/) (also because it is written in Go). The thrill of exploring decentralized ledgers and the world of distributed trust keeps me hooked!
 
 <h3>My Aspiration:</h3>
 
-- **Advocacy for Health and Longevity 🍏🩺 :** Alongside my interest in anti-aging science, I aspire to advocate for healthier lifestyles, preventive healthcare, and longevity to enhance the quality of life for people everywhere.
-- **Promote Financial Inclusion 💰:** In line with the Pan African banking vision, I aspire to promote financial inclusion and economic empowerment for underserved communities across Africa and beyond.
+- **Advocacy for Health and Longevity 🍏🩺 :** In addition to my passion for anti-aging science, I aim to promote healthier lifestyles, preventive healthcare, and longevity to improve the quality of life for everyone. _Humans really do live too short, 120 years._
 
 <br>
 
