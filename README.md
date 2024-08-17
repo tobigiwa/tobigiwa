@@ -16,12 +16,12 @@ Likes to hack & tinker with software.
 </blackquote>
 </h5>
 
-<h3>My Hobbies:</h3>
+<h3>Hobbies:</h3>
 
 - **Space Science and Engineering 📡 🚀:** I have a deep fascination with all things related to space, from the wonders of the cosmos to the technology that allows us to explore it.
 - **Blockchain Buff 🧱⛓️:** I'm super hyped about blockchain tech, with a special fondness for [Solana](https://solana.com/), proudly [Superteam](https://superteam.fun/) . I'm also a big fan of  permissioned blockchains like [Hyperledger Fabric](https://www.hyperledger.org/projects/fabric) (solely because it is written in Go) and the [cosmos blockchain](https://cosmos.network/) (also because it is written in Go). The thrill of exploring decentralized ledgers and the world of distributed trust keeps me hooked!
 
-<h3>My Aspiration:</h3>
+<h3>Aspiration:</h3>
 
 - **Advocacy for Health and Longevity 🍏🩺 :** In addition to my passion for anti-aging science, I aim to promote healthier lifestyles, preventive healthcare, and longevity to improve the quality of life for everyone. _Humans really do live too short, 120 years._
 
